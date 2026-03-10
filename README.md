@@ -1,4 +1,4 @@
-# Holiday Package Prediction Model
+# Holiday Package Prediction Model (Random Forest Classifier)
 The Holiday Package Prediction Model is a machine learning project that predicts whether a customer is likely to purchase a holiday travel package based on their demographic and behavioral information. The model helps travel companies identify potential customers and improve targeted marketing strategies.
 
 The project involves data preprocessing, feature engineering, and model training using customer-related features such as age, income, occupation, family size, previous travel history, and interaction with marketing campaigns. Data cleaning, handling missing values, encoding categorical variables, and feature scaling are applied to prepare the dataset.
